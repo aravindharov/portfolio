@@ -1,7 +1,7 @@
 <?php
 // Site configuration
 define('SITE_NAME', 'Aravindhan Radhakrishnan - Portfolio');
-define('SITE_URL', 'http://localhost/projects/my_portfolio');
+define('SITE_URL', 'https://portfolio-ysn2.onrender.com');
 
 // Contact information
 define('WHATSAPP_NUMBER', '918072396968');
