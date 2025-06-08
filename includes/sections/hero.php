@@ -25,7 +25,7 @@ $heroData = [
             </div>
             <div class="hero-image">
                 <div class="image-container">
-                    <img src="assets/images/profile.jpg" alt="<?php echo $heroData['name']; ?>">
+                    <img src="<?php echo SITE_URL; ?>/assets/images/profile.jpg" alt="<?php echo $heroData['name']; ?>">
                 </div>
             </div>
         </div>
