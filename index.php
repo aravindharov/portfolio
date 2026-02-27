@@ -46,6 +46,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
         include 'includes/sections/hero.php';
         include 'includes/sections/about.php';
         include 'includes/sections/experience.php';
+        include 'includes/sections/projects.php';
         include 'includes/sections/skills.php';
         include 'includes/sections/contact.php';
         ?>

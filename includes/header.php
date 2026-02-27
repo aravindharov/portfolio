@@ -3,6 +3,7 @@ $navItems = [
     'hero' => 'Home',
     'about' => 'About',
     'experience' => 'Experience',
+    'projects' => 'Client Projects',
     'skills' => 'Skills',
     'contact' => 'Contact'
 ];

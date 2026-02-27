@@ -44,12 +44,6 @@
                 <a href="<?php echo LINKEDIN_URL; ?>" target="_blank" aria-label="LinkedIn">
                     <i class="fab fa-linkedin"></i>
                 </a>
-                <a href="https://github.com/yourusername" target="_blank" aria-label="GitHub">
-                    <i class="fab fa-github"></i>
-                </a>
-                <a href="https://twitter.com/yourusername" target="_blank" aria-label="Twitter">
-                    <i class="fab fa-twitter"></i>
-                </a>
             </div>
         </div>
     </div>
